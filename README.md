@@ -1,16 +1,14 @@
 # Hi there 👋,I'm 01010010 01101111 01110100 01100101 01111000 ... a Software Engineer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rotex5&label=Profile%20views&color=0e75b6&style=flat" alt="rotex5" /> </p>
+
+<img align="right" height="260"  width="39%" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 - 🌱 I’m currently learning C
 - 💬 Ask me about Anything in my stack
 - 📫 How to reach me: dantejake48@gmail.com
 - ⚡ Fun fact: **I am on the search for One Piece..** 
 
-
-
-![Rotex5's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotex5&show_icons=true&theme=radical) 
-<img align="right" height="200"  width="39%" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotex5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rotex5&" alt="rotex5" /></p>
 
 #### TECHNOLOGIES USED/STILL IN USE <br/>
 - 📋 Languages <br/>
@@ -78,3 +76,8 @@
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+![Rotex5's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotex5&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotex5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rotex5&" alt="rotex5" /></p>
