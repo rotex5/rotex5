@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💬 Ask me about Anything in my stack
 - 📫 How to reach me: dantejake48@gmail.com
-- ⚡ Fun fact: **I am on the search for One Piece.** 
+- ⚡ Fun fact: **I am on the search for One Piece..** 
 
 
 
