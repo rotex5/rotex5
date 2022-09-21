@@ -1,4 +1,4 @@
-# Hi there 👋,I'm 01010010 01101111 01110100 01100101 01111000 ... a Software Engineer
+# Hi there 👋,I'm 01010010 01101111 01110100 01100101 01111000 ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotex5&label=Profile%20views&color=0e75b6&style=flat" alt="rotex5" /> </p>
 
