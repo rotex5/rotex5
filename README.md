@@ -4,7 +4,7 @@
 
 <img align="right" height="260"  width="39%" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning C
+- 🌱 Started with PY, Currently working on JS projects.
 - 💬 Ask me about Anything in my stack
 - 📫 How to reach me: dantejake48@gmail.com
 - ⚡ Fun fact: **I am on the search for One Piece...** 
